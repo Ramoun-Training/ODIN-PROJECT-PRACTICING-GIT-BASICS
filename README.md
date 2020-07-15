@@ -1,5 +1,7 @@
 # ODIN-PROJECT-PRACTICING-GIT-BASICS
 
+This is Ramoun’s first git project!
+
 ### Goals Checklist
 
 By the end of this lesson, you should be able to do the following:
